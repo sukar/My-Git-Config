@@ -4,6 +4,7 @@
 [core]
 	editor = c:/ako/apps/Git/bin/npp.bat
 	excludesfile = c:/ako/apps/Git/bin/.gitignore-global
+	autocrlf = false
 [merge]
 	tool = winmerge
 [mergetool "winmerge"]
