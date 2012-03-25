@@ -1,0 +1,12 @@
+[user]
+	name = Sukar YM
+	email = sukar@lab1521.com
+[core]
+	editor = c:/ako/apps/Git/bin/npp.bat
+	excludesfile = c:/ako/apps/Git/bin/.gitignore-global
+[merge]
+	tool = winmerge
+[mergetool "winmerge"]
+	cmd = winmerge.bat "$LOCAL" "$REMOTE" "$MERGED"
+	keepBackup = false
+	trustExitCode = false
