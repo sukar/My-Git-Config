@@ -1,6 +1,11 @@
 /nbproject/private/
 /raw/
 
+# Project Files ni marco #
+*.sublime-workspace
+*.sublime-project
+
+
 # Compiled source #
 ###################
 *.com
